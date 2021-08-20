@@ -3,7 +3,10 @@ package tpfinal;
 public class Prueba {
 
 	String nombre;
+	String apellido;
 	int dni;
+	
+	
 	
 	
 	public static void main(String[] args) {
